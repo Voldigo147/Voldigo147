@@ -1,7 +1,7 @@
-#include<iostream>
-using namespace std;
-int main()
-{
+#include<iostream>                                 
+-using namespace std;                               
+int main()                                          
+{                                                  
     cout<<" _______________________________ "<<endl;
     cout<<"|           I, Voldigo          |"<<endl;
     cout<<"|      Interested in Coding     |"<<endl;
